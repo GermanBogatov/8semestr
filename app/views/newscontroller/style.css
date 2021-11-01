@@ -1,0 +1,101 @@
+
+
+body {
+    background: #F5F5F5;
+    font-family: Georgia, serif;
+    font-weight: 300;
+    font-size: 17px;
+
+    color: black; }
+
+.col-8{
+    margin: 0px auto;
+}
+
+.row{
+    --bs-gutter-x: none;
+
+}
+.header{
+    background: white; 
+}
+.glav_col_4{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    padding: 2% 0px;
+    text-align: center;
+    background-color:#296ac0;
+    border-radius: 15px;
+    color:white;
+}
+.col{
+    background-color:#296ac0;
+
+}
+.vl {
+    border-left: 6px solid #296ac0;
+    height: 50px;
+    width: 2px;
+    margin: 0 auto;
+}
+.col_4_center{
+    text-align: center;
+    display: flex;
+    float: left;
+}
+.col-3{
+    align-content: center;
+}
+.col-4{
+    padding: 1%;
+    overflow: hidden; 
+    text-align: left;
+    position: relative;
+
+    width: 49%;
+    background-color:#296ac0;
+    border-radius: 15px;
+    color:white;
+
+
+}
+.zagolovok{
+    width: 45px;
+    height: 20px;
+    background-color:#009723;
+    border-radius: 50px;
+    z-index: 5;
+}
+.text_glav{
+    font-family: "Arial";
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1;
+    color: black;
+}
+h3{
+
+    font-size: 30px;
+}
+h5{
+
+    font-size: 20px;
+}
+h6{
+
+    font-size: 17px;
+}
+.btn-primary{
+    background-color:#296ac0;
+    border-color: #296ac0;
+}
+.btn-primary:hover{
+    background-color:#296ac0;
+    border-color: #296ac0;
+}
+
+.card-header{
+    background-color:#009723;
+    color: white;
+}

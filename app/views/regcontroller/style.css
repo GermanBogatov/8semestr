@@ -1,0 +1,42 @@
+.container {
+   
+      width: 550px;
+     border: 2px solid;	 
+     border-radius: 20px;
+	 padding: 7px;
+	 background:#000000;
+     border-color:transparent;
+}
+.col-11{
+     margin: 25px auto;
+}
+h3{
+     margin: 0 auto;
+     text-align	: center;
+}
+ .container .row .col-11 input[type="text"], [type="sname"], [type="email"], [type="phone"], [type="password"]{
+     
+	 
+     border: 2px solid;	 
+	 padding: 9px;
+	 background:white;
+     border-radius: 10px;
+	 border-color:transparent;
+ 	 width:100%;
+
+}
+ 
+.container button[type="submit"]
+{
+
+   margin: 0 auto;  
+	 padding: 15px;
+	 background:rgb(0, 189, 247);
+     border-color:#097fce;
+	 border-radius: 10px;
+     font-size: 15px;
+     color: white;
+    font-weight: bold;
+	width:100%;
+}
+

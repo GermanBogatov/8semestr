@@ -1,0 +1,13 @@
+ button[type="submit"]
+{
+margin-top: 10px;
+   margin: 0 auto;  
+	 padding: 15px;
+	 background:rgb(0, 189, 247);
+     border-color:#097fce;
+	 border-radius: 10px;
+     font-size: 15px;
+     color: white;
+    font-weight: bold;
+	width:100%;
+}
